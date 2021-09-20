@@ -1,16 +1,22 @@
-### Hi there 👋
+# プロフィール
 
-<!--
-**takumamitarai/takumamitarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+御手洗 拓真
 
-Here are some ideas to get you started:
+# スキル
+## クラウド
+ 
+ Azureについては、そこそこ幅広く知識があります。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+特に、Azure Machine Learningはリリース当初から現在まで使い続けているため、結構詳しいです。
+
+以下のリソースに関しては業務での利用経験があります。
+
+また、期限切れのものも含め以下のような資格を保持しているので、資格のスコープに
+
+## AI
+
+# 経歴
+- 2015年04月 SBテクノロジーに新卒で入社
+  - 2017年~ 機械学習系の
+
+# 価値観
