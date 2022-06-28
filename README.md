@@ -7,7 +7,9 @@
 好きなものは、コーヒー、ウィスキー、ベイスターズ、NIRVANA、ネパールです。昔はアイドルオタクでした。
 
 Qiita：[https://qiita.com/tamitarai](https://qiita.com/tamitarai)
- 
+
+
+
 # 略歴
 - 2015年03月:  慶應義塾大学総合政策学部卒業
 - 2015年04月:  某SIerに新卒で入社
