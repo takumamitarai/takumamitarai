@@ -17,16 +17,16 @@ Qiita：[https://qiita.com/tamitarai](https://qiita.com/tamitarai)
 
 # 対外公開している成果など
 
-- 【書籍】『[アジャイルとスクラムによる開発手法 ~Azure DevOpsによるプロフェショナルスクラムの実践（2022年06月28日発売）](www.amazon.co.jp/dp/4839978778)』
+- 【書籍】（2022年06月28日発売）『[アジャイルとスクラムによる開発手法 ~Azure DevOpsによるプロフェショナルスクラムの実践](www.amazon.co.jp/dp/4839978778)』
 
-- 【スライド】[学芸大学講義：オブジェクト指向と哲学について（2021年12月に学芸大学「情報とキャリア形成」での講義資料）](https://speakerdeck.com/isidaitc/ri-ben-niokeruaihuo-yong-falsezhuang-kuang-tozhu-mu-topituku-2021nian-10yue-fa-biao)
-- 【スライド】[日本におけるAI活用と注目トピック（2021/09 理系ナビでの講演資料）](https://speakerdeck.com/takumamitarai/li-xi-nabi-ri-ben-niokeruaihuo-yong-falsezhuang-kuang-tozhu-mu-topituku)
-- 【Jupyter】「[Pytorchチュートリアルの日本語訳](https://yutaroogawa.github.io/pytorch_tutorials_jp/)」の以下の章の翻訳を担当（2021年～）
+- 【スライド】（2021年12月）「[学芸大学講義：オブジェクト指向と哲学について（2021年12月に学芸大学「情報とキャリア形成」での講義資料）](https://speakerdeck.com/isidaitc/ri-ben-niokeruaihuo-yong-falsezhuang-kuang-tozhu-mu-topituku-2021nian-10yue-fa-biao)」
+- 【スライド】（2021年09月「[日本におけるAI活用と注目トピック（理系ナビでの講演資料）](https://speakerdeck.com/takumamitarai/li-xi-nabi-ri-ben-niokeruaihuo-yong-falsezhuang-kuang-tozhu-mu-topituku)」
+- 【Jupyter】（2021年06月～）「[Pytorchチュートリアルの日本語訳](https://yutaroogawa.github.io/pytorch_tutorials_jp/)」の以下の章の翻訳を担当
   2. 画像処理と動画(Image/Video)
   3. 自然言語処理(Text)
   4. 深層強化学習(Reinforcement Learning)
 
-- 【スライド】[[Track4-3] AI・ディープラーニングを駆使して、「G検定合格者アンケートのフリーコメント欄」を分析してみた](https://www.slideshare.net/DeepLearningLab/track43-aig)
+- 【スライド】（2020年6月）[[Track4-3] AI・ディープラーニングを駆使して、「G検定合格者アンケートのフリーコメント欄」を分析してみた](https://www.slideshare.net/DeepLearningLab/track43-aig)
 
 
 
